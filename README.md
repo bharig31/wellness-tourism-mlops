@@ -5,6 +5,12 @@
 This project implements an end-to-end MLOps pipeline for "Visit with Us" travel company to predict which customers are likely to purchase the newly introduced Wellness Tourism Package. The pipeline automates data preparation, model training, experimentation tracking, and deployment using Hugging Face and GitHub Actions.
 bad
 
+**Last Updated:** June 20, 2026
+
+## Project Overview
+
+This project implements an end-to-end MLOps pipeline for "Visit with Us" travel company to predict which customers are likely to purchase the newly introduced Wellness Tourism Package. The pipeline automates data preparation, model training, experimentation tracking, and deployment using Hugging Face and GitHub Actions.
+
 ## Business Context
 
 "Visit with Us" faces challenges in targeting the right customers efficiently for their new Wellness Tourism Package. This automated system integrates customer data, predicts potential buyers, and enhances decision-making for marketing strategies.
